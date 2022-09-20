@@ -1,0 +1,105 @@
+body {
+    background-image: url(https://parispeaceforum.org/wp-content/uploads/2021/10/NET-ZERO-SPACE-INITIATIVE-1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  #survey-form, header {
+    text-align: center;
+    font-family: Century gothic;
+    color: #F2EAE4;
+    background: #052439;
+    opacity: 85%;
+    width: 70vw;
+    margin: 3rem auto 3rem auto;
+    padding: 5%;
+    max-width: 1000px;
+  }
+  
+  
+  h1 {
+    color: #92A5B8;
+    font-size: 3rem;
+  }
+  
+  p {
+    font-size: 1rem;
+  }
+  
+  a {
+    color: #92A5B8;
+  }
+  
+  figure {
+    margin: 3rem auto 3rem auto;
+    height: auto;
+  }
+  
+  img {
+    max-width: 200px;
+    min-width: 100px;
+    height: auto;
+  }
+  
+  legend {
+    font-size: 1.2rem;
+    color:  #E0B99E;
+    text-align: left;
+  }
+  
+  input {
+    width: 100%;
+    height: 2rem;
+    padding: 1rem;
+    font-family: Century gothic;
+  }
+  
+  
+  .field {
+    padding: 1.5rem;
+    text-align: left;
+    display: block;
+    border: 1px solid #E0B99E;;
+    margin: 1rem; 
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.5);
+  }
+  
+  .description, .input-text {
+    margin-bottom: 1rem;
+  }
+  
+  .description {
+    font-weight: thicker;
+    font-size: 1.1rem;
+  }
+  
+  select {
+    display: block;
+    width: 100%;
+    height: 2rem;
+    padding: 1rem;
+    font-family: Century gothic;
+  }
+  
+  [type="checkbox"], [type="radio"] {
+    width: unset;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  input[type=submit] {
+    border: solid #052439;
+    color: #052439;
+    font-family: Century gothic;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background: #E0B99E;
+    padding: unset;
+    border-radius: 3px;
+    margin-top: 2rem;
+    width: 120px;
+    height: 4rem;
+    cursor: pointer;
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.5);
+  }
