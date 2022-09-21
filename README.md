@@ -11,14 +11,18 @@ Contains:
 - textarea input field,
 - submit button.
 
-Styled with CSS to have a cover background image, consistent font and fontsize, cursor change to pointer on selected elements.
+Styled with CSS to have a cover background image, consistent font and fontsize, cursor change to pointer on links, styled button.
 
 Responsive design.
 
 _________________
 
 NEEDS:
-- cleaning up the code (too many divs)
-- cleaning up the CSS (textarea set width, textarea set font)
+- cleaning up the CSS (textarea set width)
+- style the radiobuttons and checkboxes to display nicer
 - vector tracing the alien graphic
 - adding real email and setting up a mailer service to be able to actually send the data to my email.
+
+DONE:
+- cleaning up the code (too many divs)
+- cleaning up the CSS (textarea set font)
