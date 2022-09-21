@@ -18,11 +18,12 @@ Responsive design.
 _________________
 
 NEEDS:
-- cleaning up the CSS (textarea set width)
+- refactoring CSS (textarea set width)
+- refactoring CSS (color variables)
 - style the radiobuttons and checkboxes to display nicer
 - vector tracing the alien graphic
 - adding real email and setting up a mailer service to be able to actually send the data to my email.
 
 DONE:
-- cleaning up the code (too many divs)
-- cleaning up the CSS (textarea set font)
+- refactoring HTML (too many divs)
+- refactoring CSS (textarea set font)
